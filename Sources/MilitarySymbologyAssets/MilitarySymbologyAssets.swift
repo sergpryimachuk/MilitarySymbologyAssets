@@ -3,6 +3,6 @@
 
 import Foundation
 
-extension Bundle {
+public extension Bundle {
     static let militarySymbologyAssets = Bundle.module
 }
