@@ -12,26 +12,4 @@
 		c-10.274-5.526-20.566-6.969-32.209-9.287C278.914,123.184,254.529,117.468,228.359,117.468"/>
 	<text transform="matrix(1 0 0 1 237.1367 170.2539)" font-family="sans-serif" font-size="24.0048">DA</text>
 </g>
-<g id="template" display="none">
-	<g id="varW1" display="inline">
-		
-			<rect x="79.585" y="127.42" fill="none" stroke="#000000" stroke-width="1.8991" stroke-linecap="round" stroke-miterlimit="8" width="43.926" height="34.298"/>
-		<text transform="matrix(1 0 0 1 86.0708 152.2988)" font-family="sans-serif" font-size="20.3585">W1</text>
-	</g>
-	<g id="varW" display="inline">
-		<text transform="matrix(1 0 0 1 70.562 152.2588)" font-family="serif" font-size="21.5739">-</text>
-		
-			<rect x="34.139" y="127.666" fill="none" stroke="#000000" stroke-width="1.8991" stroke-linecap="round" stroke-miterlimit="8" width="33.918" height="34.317"/>
-		<text transform="matrix(1 0 0 1 40.7886 152.6152)" font-family="sans-serif" font-size="20.3585">W</text>
-	</g>
-	<g id="varT" display="inline">
-		
-			<rect x="233.5" y="179.372" fill="none" stroke="#000000" stroke-width="1.8991" stroke-linecap="round" stroke-miterlimit="8" width="40.428" height="39.973"/>
-		<text transform="matrix(1 0 0 1 247.0469 208.9424)" font-family="sans-serif" font-size="24.0048">T</text>
-	</g>
-</g>
-<g id="example" display="none">
-	<text id="varWeW1e_1_" transform="matrix(1 0 0 1 4 138.6152)" display="inline" enable-background="new    "><tspan x="0" y="0" font-family="sans-serif" font-size="18">060300ZNOV07 -</tspan><tspan x="0" y="21.6" font-family="sans-serif" font-size="18">090500ZNOV07   </tspan></text>
-	<text id="varTe" transform="matrix(1 0 0 1 216.7158 201.9707)" display="inline" font-family="sans-serif" font-size="24.0048">1/7 FA</text>
-</g>
 </svg>

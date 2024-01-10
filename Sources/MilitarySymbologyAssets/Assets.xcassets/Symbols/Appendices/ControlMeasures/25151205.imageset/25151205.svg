@@ -38,21 +38,4 @@
 		<text transform="matrix(0.6667 0 0 0.6667 205.8752 361.2224)" font-family="sans-serif" font-size="35.0036">R</text>
 	</g>
 </g>
-<g id="template" display="none">
-	<g display="inline">
-		<line fill="none" stroke="#000000" stroke-width="2" x1="168.752" y1="389.755" x2="135.752" y2="377.754"/>
-		<line fill="none" stroke="#000000" stroke-width="2" x1="136.669" y1="378.882" x2="135.752" y2="319.254"/>
-		<polygon stroke="#000000" stroke-width="2" points="172.573,390.573 151.681,390.526 157.096,376.538 		"/>
-	</g>
-	<g id="group" transform="translate(-26 174)" display="inline">
-		<text transform="matrix(1 0 0 1 305.751 239.754)" font-family="sans-serif" font-size="18.0009">PT. 1</text>
-		<ellipse stroke="#000000" cx="331.978" cy="221.681" rx="2.561" ry="2.514"/>
-		<text transform="matrix(1 0 0 1 245.751 259.254)" font-family="sans-serif" font-size="18.0009">(CENTER POINT)</text>
-	</g>
-	<g id="group_1_" transform="translate(18 62)" display="inline">
-		<text transform="matrix(1 0 0 1 87.751 204.7549)" font-family="sans-serif" font-size="18">PT. 2</text>
-		<text transform="matrix(1 0 0 1 74.251 222.7549)" font-family="sans-serif" font-size="18">(START</text>
-		<text transform="matrix(1 0 0 1 78.751 242.2549)" font-family="sans-serif" font-size="18">POINT)</text>
-	</g>
-</g>
 </svg>

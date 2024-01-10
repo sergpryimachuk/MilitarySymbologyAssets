@@ -30,27 +30,4 @@
 	<text transform="matrix(1 0 0 1 83.7808 211.7363)" font-family="sans-serif" font-size="21.1506">TIME FROM:</text>
 	<text transform="matrix(1 0 0 1 118.5483 136.6182)" font-family="sans-serif" font-size="26.2015">WFZ</text>
 </g>
-<g id="template" display="none">
-	<g id="varW1" display="inline">
-		
-			<rect x="176.591" y="222.78" fill="none" stroke="#000000" stroke-width="2.6241" stroke-linecap="round" stroke-miterlimit="8" width="57.613" height="36.046"/>
-		<text transform="matrix(1 0 0 1 185.8711 251.9766)" font-family="sans-serif" font-size="26.2015">W</text>
-		<text transform="matrix(1 0 0 1 210.7852 251.9766)" font-family="sans-serif" font-size="26.2015">1</text>
-	</g>
-	<g id="varW" display="inline">
-		
-			<rect x="215.82" y="182.795" fill="none" stroke="#000000" stroke-width="2.6241" stroke-linecap="round" stroke-miterlimit="8" width="40.109" height="36.047"/>
-		<text transform="matrix(1 0 0 1 223.7676 212.1729)" font-family="sans-serif" font-size="26.2015">W</text>
-	</g>
-	<g id="varT" display="inline">
-		
-			<rect x="115.969" y="143.227" fill="none" stroke="#000000" stroke-width="2.6241" stroke-linecap="round" stroke-miterlimit="8" width="40.111" height="36.047"/>
-		<text transform="matrix(1 0 0 1 128.0024 172.6045)" font-family="sans-serif" font-size="26.2015">T</text>
-	</g>
-</g>
-<g id="example" display="none">
-	<text id="varW1e" transform="matrix(1 0 0 1 169.8711 247.9766)" display="inline" font-family="sans-serif" font-size="16">210805ZDEC07</text>
-	<text id="varWe" transform="matrix(1 0 0 1 211.7676 211.1729)" display="inline" font-family="sans-serif" font-size="16">070805ZDEC07</text>
-	<text id="varTe" transform="matrix(1 0 0 1 110.0024 172.6045)" display="inline" font-family="sans-serif" font-size="26.2015">ATF</text>
-</g>
 </svg>

@@ -19,16 +19,4 @@
 		<text transform="matrix(1 0 0 1 188.3623 198)" font-family="sans-serif" font-size="35">D</text>
 	</g>
 </g>
-<g id="template" transform="translate(-60 -30) scale(1 1)" display="none">
-	<text transform="matrix(1 0 0 1 362 342)" display="inline" font-family="sans-serif" font-size="12">PT. 3</text>
-	<text transform="matrix(1 0 0 1 109 333)" display="inline" font-family="sans-serif" font-size="12">PT. 2</text>
-	<text transform="matrix(1 0 0 1 96 124)" display="inline" font-family="sans-serif" font-size="12">PT. 1</text>
-	<line display="inline" fill="none" stroke="#000000" stroke-width="2" x1="417" y1="310" x2="417" y2="328"/>
-	<line display="inline" fill="none" stroke="#000000" stroke-width="2" x1="417.222" y1="327.212" x2="399" y2="338"/>
-	<line display="inline" fill="none" stroke="#000000" stroke-width="2" x1="143" y1="304" x2="129" y2="321"/>
-	<line display="inline" fill="none" stroke="#000000" stroke-width="2" x1="143" y1="138" x2="129" y2="127"/>
-	<polygon display="inline" stroke="#000000" stroke-width="2" points="147.791,140.201 135.262,140.023 141.158,129.572 	"/>
-	<polygon display="inline" stroke="#000000" stroke-width="2" points="146.917,297.905 144.556,310.211 135.292,302.582 	"/>
-	<polygon display="inline" stroke="#000000" stroke-width="2" points="417,302 423,313 411,313 	"/>
-</g>
 </svg>

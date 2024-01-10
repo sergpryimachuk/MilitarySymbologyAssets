@@ -11,15 +11,4 @@
 	<line fill="none" stroke="#000000" stroke-width="5" x1="8" y1="179.5" x2="38" y2="179.5"/>
 	<line fill="none" stroke="#000000" stroke-width="5" x1="8" y1="219.5" x2="38" y2="219.5"/>
 </g>
-<g id="template" display="none">
-	<polyline display="inline" fill="none" stroke="#000000" stroke-width="3" points="385.5,90.5 385.5,120.5 365.5,140.5 	"/>
-	<polyline display="inline" fill="none" stroke="#000000" stroke-width="3" points="385.5,310.5 385.5,280.5 365.5,260.5 	"/>
-	<polygon display="inline" stroke="#000000" stroke-width="3" points="381.5,95.5 385.5,85.5 389.5,95.5 	"/>
-	<polygon display="inline" stroke="#000000" stroke-width="3" points="381.5,305.5 385.5,315.5 389.5,305.5 	"/>
-	<line display="inline" fill="none" stroke="#000000" stroke-width="3" x1="40.5" y1="200.5" x2="75.5" y2="200.5"/>
-	<polygon display="inline" stroke="#000000" stroke-width="3" points="43.5,204.5 33.5,200.5 43.5,196.5 	"/>
-	<text transform="matrix(1 0 0 1 85.5 209.5)" display="inline" font-family="sans-serif" font-size="24">PT.3</text>
-	<text transform="matrix(1 0 0 1 310.5 159.5)" display="inline" font-family="sans-serif" font-size="24">PT.1</text>
-	<text transform="matrix(1 0 0 1 310.5 259.5)" display="inline" font-family="sans-serif" font-size="24">PT.2</text>
-</g>
 </svg>

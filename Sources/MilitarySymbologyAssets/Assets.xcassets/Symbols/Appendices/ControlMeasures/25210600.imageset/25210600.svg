@@ -10,21 +10,4 @@
 		316.393,354.135 335.06,331.801 339.06,360.25 359.726,344.521 	"/>
 	<line fill="none" stroke="#000000" stroke-width="5" x1="231.393" y1="487.802" x2="381.393" y2="487.802"/>
 </g>
-<g id="template" display="none">
-	<g id="varX" display="inline">
-		
-			<rect x="372.262" y="296.86" fill="none" stroke="#000000" stroke-width="2.1727" stroke-linecap="round" stroke-miterlimit="8" width="49.975" height="54.166"/>
-		<text transform="matrix(1 0 0 1 386.2734 333.6582)" font-family="sans-serif" font-size="28.8541">X</text>
-	</g>
-	<g id="points" display="inline">
-		<text transform="matrix(1 0 0 1 140.7632 301.3281)" font-family="serif" font-size="28.8541">CENTER</text>
-		<text transform="matrix(1 0 0 1 140.7632 334.7109)" font-family="serif" font-size="28.8541">POINT</text>
-		<path stroke="#000000" stroke-width="0.3476" stroke-linejoin="bevel" stroke-miterlimit="10" d="M223.931,339.901l71.157,46.282
-			l-3.171,4.866l-71.137-46.281L223.931,339.901L223.931,339.901z M295.807,379.749l9.842,16.751l-19.316-2.173L295.807,379.749
-			L295.807,379.749z"/>
-	</g>
-</g>
-<g id="example" display="none">
-	<text transform="matrix(1 0 0 1 370.2734 333.6582)" display="inline" font-family="sans-serif" font-size="28.8541">965FT AGL</text>
-</g>
 </svg>

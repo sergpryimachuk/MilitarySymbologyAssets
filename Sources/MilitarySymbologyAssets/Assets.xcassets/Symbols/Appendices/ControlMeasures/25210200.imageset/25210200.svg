@@ -12,16 +12,4 @@
 		c57.79,0,104.632-44.111,104.632-98.53C411.206,341.536,364.364,297.426,306.574,297.426"/>
 	<circle cx="304.739" cy="396.259" r="44.076"/>
 </g>
-<g id="template" display="none">
-	<text transform="matrix(1 0 0 1 442.2139 390.29)" display="inline" font-family="sans-serif" font-size="26.4544">CENTER </text>
-	<text transform="matrix(1 0 0 1 442.2139 422.0352)" display="inline" font-family="sans-serif" font-size="26.4544">POINT</text>
-	<path display="inline" stroke="#000000" stroke-width="0.3187" stroke-linejoin="bevel" stroke-miterlimit="10" d="M464.69,397.495
-		l-135.46,0.101c-0.737,0-1.336-0.599-1.336-1.315c0-0.734,0.599-1.335,1.336-1.335l135.46-0.12c0.735,0,1.313,0.601,1.313,1.338
-		C466.005,396.897,465.429,397.495,464.69,397.495L464.69,397.495z M331.881,404.228l-26.554-7.93l26.554-8.008V404.228z"/>
-	<g display="inline">
-		
-			<line fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linejoin="bevel" stroke-miterlimit="10" x1="337.334" y1="396.259" x2="348.815" y2="396.259"/>
-		<polygon fill="#FFFFFF" points="343.764,385.5 303.112,396.391 343.764,407.286 		"/>
-	</g>
-</g>
 </svg>

@@ -10,15 +10,4 @@
 	<line fill="none" stroke="#000000" stroke-width="10" x1="308" y1="272" x2="308" y2="356.098"/>
 	<polygon stroke="#000000" points="196,396.279 246,349.558 366,349.558 416,396.279 366,443 246,443 	"/>
 </g>
-<g id="template" display="none">
-	<g display="inline">
-		<g>
-			<line fill="none" stroke="#FFFFFF" stroke-width="5" x1="307" y1="447.5" x2="307" y2="368.5"/>
-			<polygon fill="#FFFFFF" points="319.504,372.146 307.039,350.558 294.574,372.146 			"/>
-		</g>
-	</g>
-	<line display="inline" fill="none" stroke="#000000" stroke-width="5" x1="307" y1="442.5" x2="307" y2="479.91"/>
-	<text transform="matrix(1 0 0 1 254.1641 501.5)" display="inline" font-family="sans-serif" font-size="24">CENTER</text>
-	<text transform="matrix(1 0 0 1 266.832 530.2998)" display="inline" font-family="sans-serif" font-size="24">POINT</text>
-</g>
 </svg>

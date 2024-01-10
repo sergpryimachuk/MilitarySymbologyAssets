@@ -14,27 +14,4 @@
 	<polygon fill="none" stroke="#000000" stroke-width="2" points="190.503,259.485 138.4,259.485 138.4,218.2 190.503,218.2 
 		208.948,237.485 	"/>
 </g>
-<g id="template" display="none">
-	<g id="varT" transform="translate(63 147)" display="inline">
-		<rect x="56.25" y="19.5" fill="#FFFFFF" stroke="#000000" stroke-width="2" width="20" height="20"/>
-		<text transform="matrix(1 0 0 1 61.249 35.749)" font-family="sans-serif" font-size="15">T</text>
-	</g>
-	<g id="points" display="inline">
-		<g>
-			<text transform="matrix(1 0 0 1 272.999 277.749)" font-family="sans-serif" font-size="15">PT. 1</text>
-			<line fill="none" stroke="#000000" stroke-width="2" x1="315.5" y1="274" x2="360.813" y2="229.514"/>
-			<line fill="none" stroke="#000000" stroke-width="2" x1="360.5" y1="230.25" x2="360.5" y2="199"/>
-			<polygon stroke="#000000" stroke-width="2" points="359.25,187.75 364.25,202.749 354.25,202.749 			"/>
-		</g>
-		<g>
-			<text transform="matrix(1 0 0 1 62.999 235.249)" font-family="sans-serif" font-size="15">PT. 2</text>
-			<line fill="none" stroke="#000000" stroke-width="2" x1="59.25" y1="229" x2="33.35" y2="182.036"/>
-			<line fill="none" stroke="#000000" stroke-width="2" x1="34.25" y1="182.75" x2="71.75" y2="184"/>
-			<polygon stroke="#000000" stroke-width="2" points="84.417,182.917 69.417,187.917 69.417,177.917 			"/>
-		</g>
-	</g>
-</g>
-<g id="example" transform="translate(63 147)" display="none">
-	<text id="varTe" transform="matrix(1 0 0 1 61.249 35.749)" display="inline" font-family="sans-serif" font-size="15"> </text>
-</g>
 </svg>

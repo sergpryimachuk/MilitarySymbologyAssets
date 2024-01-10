@@ -9,22 +9,4 @@
 		l-15.5-22H83l21-18l-3-25.5l26,14.5l28-9l7.5-26L179,118z"/>
 	<ellipse fill="#FFFFFF" stroke="#000000" stroke-width="5" cx="194" cy="193" rx="125" ry="75"/>
 </g>
-<g id="example" display="none">
-	<polygon display="inline" fill="none" stroke="#808080" stroke-width="5" stroke-linecap="round" stroke-miterlimit="8" points="
-		213.333,176.354 213.333,215.074 279.32,215.074 279.32,176.354 	"/>
-	
-		<line display="inline" fill="none" stroke="#808080" stroke-width="5" stroke-linejoin="round" stroke-miterlimit="8" x1="213.333" y1="215.074" x2="277.977" y2="176.354"/>
-	
-		<line display="inline" fill="none" stroke="#808080" stroke-width="5" stroke-linejoin="round" stroke-miterlimit="8" x1="277.977" y1="215.074" x2="213.333" y2="176.354"/>
-	
-		<line display="inline" fill="none" stroke="#808080" stroke-width="5" stroke-linejoin="round" stroke-miterlimit="8" x1="245.652" y1="162.907" x2="245.652" y2="176.354"/>
-	<polygon display="inline" fill="none" stroke="#808080" stroke-width="5" stroke-linecap="round" stroke-miterlimit="8" points="
-		116.368,176.354 116.368,215.074 182.358,215.074 182.358,176.354 	"/>
-	
-		<line display="inline" fill="none" stroke="#808080" stroke-width="5" stroke-linejoin="round" stroke-miterlimit="8" x1="116.368" y1="215.074" x2="181.01" y2="176.354"/>
-	
-		<line display="inline" fill="none" stroke="#808080" stroke-width="5" stroke-linejoin="round" stroke-miterlimit="8" x1="181.01" y1="215.074" x2="116.368" y2="176.354"/>
-	
-		<line display="inline" fill="none" stroke="#808080" stroke-width="5" stroke-linejoin="round" stroke-miterlimit="8" x1="148.689" y1="162.907" x2="148.689" y2="176.354"/>
-</g>
 </svg>

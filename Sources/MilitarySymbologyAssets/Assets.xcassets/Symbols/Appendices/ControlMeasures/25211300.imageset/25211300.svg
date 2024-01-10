@@ -13,22 +13,4 @@
 	<text transform="matrix(1 0 0 1 239.605 343.7656)" font-family="sans-serif" font-size="60">ECM</text>
 	<rect x="177" y="292.291" fill="none" stroke="#000000" stroke-width="5" width="258" height="264.475"/>
 </g>
-<g id="template" display="none">
-	<text transform="matrix(1 0 0 1 235.605 627.3545)" display="inline" font-family="sans-serif" font-size="28">P</text>
-	<text transform="matrix(1 0 0 1 254.2808 627.3545)" display="inline" font-family="sans-serif" font-size="28">O</text>
-	<text transform="matrix(1 0 0 1 275.9482 627.3545)" display="inline" font-family="sans-serif" font-size="28">I</text>
-	<text transform="matrix(1 0 0 1 283.7842 627.3545)" display="inline" font-family="sans-serif" font-size="28">N</text>
-	<text transform="matrix(1 0 0 1 303.9482 627.3545)" display="inline" font-family="sans-serif" font-size="28">T </text>
-	<text transform="matrix(1 0 0 1 328.9434 627.3545)" display="inline" font-family="sans-serif" font-size="28"> </text>
-	<text transform="matrix(1 0 0 1 235.605 595.0225)" display="inline" font-family="sans-serif" font-size="28">CENTER</text>
-	<g display="inline">
-		<line fill="none" stroke="#000000" stroke-width="5" x1="281.542" y1="568.708" x2="297.746" y2="441.191"/>
-		<g>
-			<g>
-				<line fill="none" stroke="#FFFFFF" stroke-width="5" x1="297.746" y1="441.191" x2="299.798" y2="429.264"/>
-				<polygon fill="#FFFFFF" points="309.143,438.412 305.307,396.5 287.671,434.715 				"/>
-			</g>
-		</g>
-	</g>
-</g>
 </svg>

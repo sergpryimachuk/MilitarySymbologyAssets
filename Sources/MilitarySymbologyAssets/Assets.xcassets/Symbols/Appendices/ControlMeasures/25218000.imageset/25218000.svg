@@ -25,16 +25,4 @@
 	
 		<line fill="none" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-miterlimit="10" x1="319.072" y1="321.996" x2="403.355" y2="251.753"/>
 </g>
-<g id="template" display="none">
-	<path display="inline" stroke="#000000" stroke-width="0.281" stroke-linejoin="bevel" stroke-miterlimit="10" d="M303.269,476.531
-		v-35.122c0-0.632,0.562-1.124,1.193-1.124c0.632,0,1.195,0.492,1.195,1.124v35.122c0,0.701-0.563,1.193-1.195,1.193
-		C303.831,477.725,303.269,477.232,303.269,476.531L303.269,476.531z M297.438,443.8l7.024-23.464l7.024,23.464H297.438z"/>
-	<text transform="matrix(1 0 0 1 240.8628 505.8887)" display="inline" font-family="sans-serif" font-size="28.1767">C</text>
-	<text transform="matrix(1 0 0 1 261.2109 505.8887)" display="inline" font-family="sans-serif" font-size="28.1767">E</text>
-	<text transform="matrix(1 0 0 1 279.8916 505.8887)" display="inline" font-family="sans-serif" font-size="28.1767">N</text>
-	<text transform="matrix(1 0 0 1 300.2397 505.8887)" display="inline" font-family="sans-serif" font-size="28.1767">T</text>
-	<text transform="matrix(1 0 0 1 317.874 505.8887)" display="inline" font-family="sans-serif" font-size="28.1767">E</text>
-	<text transform="matrix(1 0 0 1 336.5547 505.8887)" display="inline" font-family="sans-serif" font-size="28.1767">R</text>
-	<text transform="matrix(1 0 0 1 240.8628 539.7012)" display="inline" font-family="sans-serif" font-size="28.1767">POINT </text>
-</g>
 </svg>

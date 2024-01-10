@@ -11,14 +11,4 @@
 	
 		<text transform="matrix(1 0 0 1 236.0117 396.0879)" opacity="0.97" enable-background="new    " font-family="sans-serif" font-size="100">RS</text>
 </g>
-<g id="template" display="none">
-	<g display="inline">
-		<g>
-			<line fill="none" stroke="#000000" stroke-width="5" x1="301" y1="446" x2="301" y2="383.5"/>
-			<polygon points="313.504,389.147 301.039,367.558 288.574,389.147 			"/>
-		</g>
-	</g>
-	<text transform="matrix(1 0 0 1 253.1641 477.5)" display="inline" font-family="sans-serif" font-size="24">CENTER</text>
-	<text transform="matrix(1 0 0 1 265.832 506.2998)" display="inline" font-family="sans-serif" font-size="24">POINT</text>
-</g>
 </svg>
