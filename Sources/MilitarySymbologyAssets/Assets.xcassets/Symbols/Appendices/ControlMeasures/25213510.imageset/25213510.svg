@@ -14,16 +14,4 @@
 	<line fill="none" stroke="#000000" stroke-width="5" x1="211.836" y1="475.596" x2="399.912" y2="316.652"/>
 	<line fill="none" stroke="#000000" stroke-width="5" x1="399.912" y1="475.596" x2="211.836" y2="316.652"/>
 </g>
-<g id="template" display="none">
-	<g transform="translate(-90 -35)" display="inline">
-		<text transform="matrix(1 0 0 1 252.5 304.5)" font-family="sans-serif" font-size="24">CENTER</text>
-		<text transform="matrix(1 0 0 1 252.5 304.5)" fill="none" stroke="#000000" font-family="sans-serif" font-size="24">CENTER</text>
-		<text transform="matrix(1 0 0 1 263.5 329.5)" font-family="sans-serif" font-size="24">POINT</text>
-		<text transform="matrix(1 0 0 1 263.5 329.5)" fill="none" stroke="#000000" font-family="sans-serif" font-size="24">POINT</text>
-	</g>
-	<g display="inline">
-		<line fill="none" stroke="#000000" stroke-width="3" x1="213.5" y1="303.5" x2="303.5" y2="393.5"/>
-		<polygon stroke="#000000" stroke-width="2" points="306.5,396.5 294.5,392.5 302.5,384.5 		"/>
-	</g>
-</g>
 </svg>

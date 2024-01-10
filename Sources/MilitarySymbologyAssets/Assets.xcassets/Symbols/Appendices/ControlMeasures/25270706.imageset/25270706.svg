@@ -21,30 +21,4 @@
 	<circle fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="252.051" cy="256.953" r="13"/>
 	<circle fill="#FFFFFF" stroke="#000000" stroke-width="2" cx="298.051" cy="256.953" r="13"/>
 </g>
-<g id="template" display="none">
-	<g id="varH_1_" transform="translate(21 245)" display="inline">
-		<rect x="167.839" y="90.418" fill="#FFFFFF" stroke="#000000" stroke-width="2" width="28" height="29.75"/>
-		<text transform="matrix(1 0 0 1 173.0884 113.168)" font-family="sans-serif" font-size="20.9989">H</text>
-	</g>
-	<g id="varH" transform="translate(143 108)" display="inline">
-		<rect x="52.839" y="6.918" fill="#FFFFFF" stroke="#000000" stroke-width="2" width="28" height="29.75"/>
-		<text transform="matrix(1 0 0 1 58.0889 31.418)" font-family="sans-serif" font-size="20.9989">H</text>
-	</g>
-	<g id="varN_1_" transform="translate(-41 192)" display="inline">
-		<rect x="376.839" y="41.918" fill="#FFFFFF" stroke="#000000" stroke-width="2" width="28" height="29.75"/>
-		<text transform="matrix(1 0 0 1 382.0879 66.418)" font-family="sans-serif" font-size="20.9989">N</text>
-	</g>
-	<g id="varN" transform="translate(-157 194) translate(1 -8)" display="inline">
-		<rect x="178.589" y="49.668" fill="#FFFFFF" stroke="#000000" stroke-width="2" width="28" height="29.75"/>
-		<text transform="matrix(1 0 0 1 183.8384 72.418)" font-family="sans-serif" font-size="20.9989">N</text>
-	</g>
-</g>
-<g id="example" display="none">
-	<g id="varH_3_" transform="translate(21 245)" display="inline">
-		<text id="varHe_1_" transform="matrix(1 0 0 1 173.0884 113.168)" font-family="sans-serif" font-size="20.9989"> </text>
-	</g>
-	<text id="varHe" transform="matrix(1 0 0 1 201.0889 139.418)" display="inline" font-family="sans-serif" font-size="20.9989"> </text>
-	<text id="varNe_1_" transform="matrix(1 0 0 1 341.0879 258.418)" display="inline" font-family="sans-serif" font-size="20.9989"> </text>
-	<text id="varNe" transform="matrix(1 0 0 1 27.8384 258.418)" display="inline" font-family="sans-serif" font-size="20.9989"> </text>
-</g>
 </svg>

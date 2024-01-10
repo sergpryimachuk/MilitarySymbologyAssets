@@ -10,25 +10,4 @@
 		M191.906,402.313c48.287,0,90.514,11.418,116.279,29.786l131.077-50.307c-60.922-50.379-160.555-81.82-272.368-84.596l0,0
 		L191.906,402.313"/>
 </g>
-<g id="template" display="none">
-	<g id="varT" display="inline">
-		
-			<rect x="238.167" y="324.711" fill="#FFFFFF" stroke="#000000" stroke-linecap="round" stroke-miterlimit="8" width="42.167" height="38.384"/>
-		<text transform="matrix(1 0 0 1 247.9697 357.9082)" font-family="sans-serif" font-size="36">T</text>
-	</g>
-	<text transform="matrix(1 0 0 1 189.8984 491.373)" display="inline" fill="#231F20" font-family="sans-serif" font-size="24">POINT</text>
-	
-		<text transform="matrix(1 0 0 1 189.8984 491.373)" display="inline" fill="none" stroke="#231F20" stroke-miterlimit="10" font-family="sans-serif" font-size="24">POINT</text>
-	<text transform="matrix(1 0 0 1 189.8984 467.0195)" display="inline" fill="#231F20" font-family="sans-serif" font-size="24">CENTER</text>
-	
-		<text transform="matrix(1 0 0 1 189.8984 467.0195)" display="inline" fill="none" stroke="#231F20" stroke-miterlimit="10" font-family="sans-serif" font-size="24">CENTER</text>
-	<path display="inline" fill="#231F20" stroke="#231F20" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" d="
-		M226.694,440.902l56.145-65.853c0.421-0.492,1.159-0.545,1.651-0.123c0.493,0.421,0.563,1.16,0.141,1.652l-56.145,65.851
-		c-0.421,0.489-1.159,0.543-1.651,0.12C226.342,442.131,226.272,441.395,226.694,440.902L226.694,440.902z M276.861,373.033
-		l14.467-6.135l-3.762,15.257L276.861,373.033z"/>
-</g>
-<g id="example" display="none">
-	
-		<text id="varTe" transform="matrix(1 0 0 1 247.9697 357.9082)" display="inline" fill="#FFFFFF" font-family="sans-serif" font-size="36">2</text>
-</g>
 </svg>

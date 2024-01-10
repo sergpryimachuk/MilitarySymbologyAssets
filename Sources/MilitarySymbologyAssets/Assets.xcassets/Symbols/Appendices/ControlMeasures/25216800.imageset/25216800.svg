@@ -13,14 +13,4 @@
 	</g>
 	<text transform="matrix(1 0 0 1 216.0117 328.0879)" font-family="sans-serif" font-size="72">RMV</text>
 </g>
-<g id="template" display="none">
-	<g display="inline">
-		<g>
-			<line fill="none" stroke="#000000" stroke-width="5" x1="301" y1="488.5" x2="301" y2="363.5"/>
-			<polygon points="313.504,367.147 301.039,345.558 288.574,367.147 			"/>
-		</g>
-	</g>
-	<text transform="matrix(1 0 0 1 254.1641 513.5)" display="inline" font-family="sans-serif" font-size="24">CENTER</text>
-	<text transform="matrix(1 0 0 1 266.832 542.2998)" display="inline" font-family="sans-serif" font-size="24">POINT</text>
-</g>
 </svg>

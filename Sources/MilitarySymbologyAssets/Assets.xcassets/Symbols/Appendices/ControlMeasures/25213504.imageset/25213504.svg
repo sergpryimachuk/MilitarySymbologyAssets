@@ -13,30 +13,4 @@
 		V240.29l24.443,27.726v-126.42H324.871z"/>
 	<text transform="matrix(1.1335 0 0 1 284.4277 410.8828)" font-family="sans-serif" font-size="60">B</text>
 </g>
-<g id="template" display="none">
-	<g id="varH" display="inline">
-		<rect x="355.316" y="267.096" fill="#FFFFFF" stroke="#000000" stroke-width="1.8941" width="50.807" height="50.798"/>
-		<text transform="matrix(1.1335 0 0 1 362.6494 306.8789)" font-family="sans-serif" font-size="42">H</text>
-	</g>
-	<g id="varT" display="inline">
-		<rect x="349.116" y="211.096" fill="#FFFFFF" stroke="#000000" stroke-width="1.8941" width="51.007" height="51"/>
-		<text transform="matrix(1.1335 0 0 1 356.6494 251.0801)" font-family="sans-serif" font-size="42">T</text>
-	</g>
-	<g id="points" display="inline">
-		<g transform="translate(-90 -35)">
-			<text transform="matrix(1 0 0 1 250.623 302)" font-family="sans-serif" font-size="24">CENTER</text>
-			<text transform="matrix(1 0 0 1 250.623 302)" fill="none" stroke="#000000" font-family="sans-serif" font-size="24">CENTER</text>
-			<text transform="matrix(1 0 0 1 261.623 327)" font-family="sans-serif" font-size="24">POINT</text>
-			<text transform="matrix(1 0 0 1 261.623 327)" fill="none" stroke="#000000" font-family="sans-serif" font-size="24">POINT</text>
-		</g>
-		<g>
-			<line fill="none" stroke="#000000" stroke-width="3" x1="211.623" y1="301" x2="301.623" y2="391"/>
-			<polygon stroke="#000000" stroke-width="2" points="304.623,394 292.623,390 300.623,382 			"/>
-		</g>
-	</g>
-</g>
-<g id="example" display="none">
-	<text id="varHe" transform="matrix(1.1335 0 0 1 362.6494 306.8789)" display="inline" font-family="sans-serif" font-size="42">HOT</text>
-	<text id="varTe" transform="matrix(1.1335 0 0 1 356.6494 254.0801)" display="inline" font-family="sans-serif" font-size="42">99</text>
-</g>
 </svg>

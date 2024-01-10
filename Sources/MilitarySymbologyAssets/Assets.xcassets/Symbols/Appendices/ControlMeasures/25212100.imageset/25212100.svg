@@ -8,18 +8,4 @@
 	<line fill="none" stroke="#000000" stroke-width="10" x1="305.5" y1="306.5" x2="305.5" y2="145.5"/>
 	<polyline fill="none" stroke="#000000" stroke-width="10" points="160.5,145.5 215.5,85.5 305.5,145.5 395.5,85.5 450.5,145.5 	"/>
 </g>
-<g id="template" display="none">
-	<g transform="translate(113 164)" display="inline">
-		<text transform="matrix(1 0 0 1 295.9512 226.499)" font-family="sans-serif" font-size="24">ANCHOR</text>
-		<text transform="matrix(1 0 0 1 295.9512 226.499)" fill="none" stroke="#000000" font-family="sans-serif" font-size="24">ANCHOR</text>
-		<text transform="matrix(1 0 0 1 307.9512 251.499)" font-family="sans-serif" font-size="24">POINT</text>
-		<text transform="matrix(1 0 0 1 307.9512 251.499)" fill="none" stroke="#000000" font-family="sans-serif" font-size="24">POINT</text>
-	</g>
-	<g display="inline">
-		<g>
-			<line fill="none" stroke="#000000" stroke-width="5" x1="415.5" y1="398.4" x2="338.5" y2="398.4"/>
-			<polygon points="345.932,387.641 305.277,398.532 345.932,409.426 			"/>
-		</g>
-	</g>
-</g>
 </svg>
