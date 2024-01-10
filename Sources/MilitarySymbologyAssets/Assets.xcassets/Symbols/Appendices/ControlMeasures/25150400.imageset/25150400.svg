@@ -19,24 +19,4 @@
 	</g>
 	<text id="static" transform="matrix(1 0 0 1 134.0757 171.5234)" font-family="sans-serif" font-size="40">AA </text>
 </g>
-<g id="template" transform="translate(150 118)" display="none">
-	
-		<rect x="63.277" y="16.752" display="inline" fill="none" stroke="#000000" stroke-width="2.6622" stroke-linecap="round" stroke-miterlimit="8" width="44.223" height="43.748"/>
-	<text transform="matrix(1 0 0 1 73.5918 53.5234)" display="inline" font-family="sans-serif" font-size="40">T</text>
-</g>
-<g id="example" display="none">
-	<text id="varTe" transform="matrix(1 0 0 1 125.7427 181)" display="inline" font-family="sans-serif" font-size="40">AA BLUE</text>
-	<g display="inline">
-		<polygon fill="none" stroke="#808080" stroke-width="5" stroke-linecap="round" stroke-miterlimit="8" points="182.051,207.727 
-			182.051,239.439 238.514,239.439 238.514,207.727 		"/>
-		
-			<line fill="none" stroke="#808080" stroke-width="5" stroke-linejoin="round" stroke-miterlimit="8" x1="182.051" y1="239.439" x2="238.514" y2="207.727"/>
-		
-			<line fill="none" stroke="#808080" stroke-width="5" stroke-linejoin="round" stroke-miterlimit="8" x1="238.398" y1="239.439" x2="181.937" y2="207.727"/>
-		
-			<line fill="none" stroke="#808080" stroke-width="5" stroke-linejoin="round" stroke-miterlimit="8" x1="205.395" y1="199.798" x2="205.512" y2="207.727"/>
-		
-			<line fill="none" stroke="#808080" stroke-width="5" stroke-linejoin="round" stroke-miterlimit="8" x1="214.939" y1="199.798" x2="215.055" y2="207.727"/>
-	</g>
-</g>
 </svg>

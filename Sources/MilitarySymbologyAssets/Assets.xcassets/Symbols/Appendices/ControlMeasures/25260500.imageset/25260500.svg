@@ -7,8 +7,4 @@
 	
 		<line fill="none" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-miterlimit="10" x1="69.858" y1="172.406" x2="333.75" y2="172.406"/>
 	
-		<text transform="matrix(1 0 0 1 240.7383 160.8701)" display="none" enable-background="new    " font-family="sans-serif" font-size="18">BCL</text>
-	
-		<text transform="matrix(1 0 0 1 75.1802 160.8701)" display="none" enable-background="new    " font-family="sans-serif" font-size="18">BCL</text>
-</g>
-</svg>
+		</svg>

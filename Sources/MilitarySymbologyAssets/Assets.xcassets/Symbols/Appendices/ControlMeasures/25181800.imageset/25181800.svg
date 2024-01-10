@@ -8,12 +8,4 @@
 	<line fill="none" stroke="#000000" stroke-width="10" x1="396.5" y1="221" x2="396.5" y2="571"/>
 	<text transform="matrix(1 0 0 1 210.5195 446.5)" font-family="sans-serif" font-size="120">TC</text>
 </g>
-<g id="template" transform="translate(0 -140)" display="none">
-	<text transform="matrix(1 0 0 1 248 391)" display="inline" font-family="sans-serif" font-size="24">CENTER</text>
-	<text transform="matrix(1 0 0 1 259 416)" display="inline" font-family="sans-serif" font-size="24">POINT</text>
-	<g display="inline">
-		<line fill="none" stroke="#000000" stroke-width="3" x1="294" y1="429" x2="294" y2="484"/>
-		<polygon stroke="#000000" points="294,487 287,472 301,472 		"/>
-	</g>
-</g>
 </svg>
