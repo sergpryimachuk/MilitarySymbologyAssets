@@ -9,7 +9,4 @@
 	<line fill="none" stroke="#000000" stroke-width="5" x1="126.5" y1="516" x2="485.5" y2="276"/>
 	<line id="main" fill="none" stroke="#000000" stroke-width="5" x1="180" y1="276" x2="180" y2="516"/>
 </g>
-<g id="greybox" display="none">
-	<rect id="greyBox" x="126.5" y="276" display="inline" fill="none" stroke="#C8C8C8" stroke-width="10" width="359" height="240"/>
-</g>
 </svg>
