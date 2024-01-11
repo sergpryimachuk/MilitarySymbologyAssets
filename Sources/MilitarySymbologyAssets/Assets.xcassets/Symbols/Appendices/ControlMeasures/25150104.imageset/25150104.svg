@@ -5,8 +5,11 @@
 	 y="0px" width="400px" height="400px" viewBox="0 0 400 400" enable-background="new 0 0 400 400" xml:space="preserve">
 <g id="main">
 <<<<<<< HEAD
+<<<<<<< HEAD
 	</svg>
 =======
+=======
+>>>>>>> main
 	<g id="black">
 		<g>
 			<path fill="none" stroke="#000000" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" d="M156.972,115.492
@@ -22,4 +25,7 @@
 	</g>
 </g>
 </svg>
+<<<<<<< HEAD
 >>>>>>> before-artifacts-deletion
+=======
+>>>>>>> main
