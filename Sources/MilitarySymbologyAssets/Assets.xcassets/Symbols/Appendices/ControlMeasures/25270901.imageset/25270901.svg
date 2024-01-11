@@ -76,24 +76,4 @@
 	<polyline fill="none" stroke="#000000" stroke-width="4" stroke-dasharray="12,12" points="173.063,260 262.357,194.463 
 		350.063,260 	"/>
 </g>
-<g id="template" display="none">
-	<g id="varN_1_" transform="translate(105 -104)" display="inline">
-		<rect x="185.063" y="223" fill="#FFFFFF" stroke="#000000" stroke-width="2" width="24" height="26"/>
-		<text transform="matrix(1 0 0 1 187.0625 245)" font-family="sans-serif" font-size="24">N</text>
-	</g>
-	<g id="varN" transform="translate(19 108)" display="inline">
-		<rect x="77.063" y="8" fill="#FFFFFF" stroke="#000000" stroke-width="2" width="24" height="26"/>
-		<text transform="matrix(1 0 0 1 79.063 30)" font-family="sans-serif" font-size="24">N</text>
-	</g>
-</g>
-<g id="example" display="none">
-	<g id="varN_3_" transform="translate(105 -104)" display="inline">
-		<rect x="185.063" y="223" fill="#FFFFFF" width="24" height="26"/>
-		<text id="varNe_1_" transform="matrix(1 0 0 1 187.0625 245)" font-family="sans-serif" font-size="24">X</text>
-	</g>
-	<g id="varN_2_" transform="translate(19 108)" display="inline">
-		<rect x="77.063" y="8" fill="#FFFFFF" width="24" height="26"/>
-		<text id="varNe" transform="matrix(1 0 0 1 79.063 30)" font-family="sans-serif" font-size="24">X</text>
-	</g>
-</g>
 </svg>

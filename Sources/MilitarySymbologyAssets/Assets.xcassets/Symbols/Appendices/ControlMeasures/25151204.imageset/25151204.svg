@@ -28,22 +28,4 @@
 		<text transform="matrix(1 0 0 1 190.3623 212)" font-family="sans-serif" font-size="35">C</text>
 	</g>
 </g>
-<g id="template" display="none">
-	<g display="inline">
-		<line fill="none" stroke="#000000" stroke-width="2" x1="150.5" y1="109.5" x2="180.5" y2="125.75"/>
-		<polygon stroke="#000000" stroke-width="2" points="145.094,106.045 162.438,105.19 154.375,120.721 		"/>
-		<text transform="matrix(1 0 0 1 184.249 133.249)" font-family="sans-serif" font-size="15">PT. 1</text>
-	</g>
-	<g display="inline">
-		<line fill="none" stroke="#000000" stroke-width="2" x1="385.5" y1="218.25" x2="385.5" y2="240.75"/>
-		<line fill="none" stroke="#000000" stroke-width="2" x1="385.918" y1="239.721" x2="363" y2="258.25"/>
-		<polygon stroke="#000000" stroke-width="2" points="385.5,209.5 393,224.5 378,224.5 		"/>
-		<text transform="matrix(1 0 0 1 316.749 265.749)" font-family="sans-serif" font-size="15">PT. 3</text>
-	</g>
-	<g display="inline">
-		<line fill="none" stroke="#000000" stroke-width="2" x1="146.75" y1="302.422" x2="176.75" y2="286.172"/>
-		<polygon stroke="#000000" stroke-width="2" points="141.344,305.879 158.688,306.734 150.626,291.201 		"/>
-		<text transform="matrix(1 0 0 1 177.999 288.249)" font-family="sans-serif" font-size="15">PT. 2</text>
-	</g>
-</g>
 </svg>

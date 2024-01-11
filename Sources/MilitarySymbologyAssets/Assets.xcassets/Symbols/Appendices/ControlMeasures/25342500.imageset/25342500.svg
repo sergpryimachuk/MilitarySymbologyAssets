@@ -11,24 +11,4 @@
 	<line fill="none" stroke="#000000" stroke-width="2" x1="123.387" y1="266.333" x2="135.787" y2="279.133"/>
 	<text transform="matrix(0.8 0 0 0.8 205.3992 269.9992)" font-family="sans-serif" font-size="25">WP</text>
 </g>
-<g id="template" display="none">
-	<g display="inline">
-		<line fill="none" stroke="#000000" stroke-width="2" x1="278" y1="105.75" x2="261.75" y2="90.107"/>
-		<line fill="none" stroke="#000000" stroke-width="2" x1="263" y1="90.75" x2="223" y2="90.75"/>
-		<polygon stroke="#000000" stroke-width="2" points="282.395,110.144 265.584,100.413 274.018,92.951 		"/>
-		<text transform="matrix(1 0 0 1 177.999 95.749)" font-family="sans-serif" font-size="15">PT 3</text>
-	</g>
-	<g display="inline">
-		<line fill="none" stroke="#000000" stroke-width="2" x1="280.5" y1="263.25" x2="280.5" y2="288.25"/>
-		<line fill="none" stroke="#000000" stroke-width="2" x1="281.055" y1="287.164" x2="263" y2="299.5"/>
-		<polygon stroke="#000000" stroke-width="2" points="280.5,255.75 288,278.25 273,278.25 		"/>
-		<text transform="matrix(1 0 0 1 219.249 310.749)" font-family="sans-serif" font-size="15">PT 2</text>
-	</g>
-	<g display="inline">
-		<line fill="none" stroke="#000000" stroke-width="2" x1="40.5" y1="264.5" x2="40.5" y2="289.5"/>
-		<line fill="none" stroke="#000000" stroke-width="2" x1="39.889" y1="288.691" x2="65.5" y2="305.75"/>
-		<polygon stroke="#000000" stroke-width="2" points="40.5,259.5 48,282 33,282 		"/>
-		<text transform="matrix(1 0 0 1 66.749 310.749)" font-family="sans-serif" font-size="15">PT 1</text>
-	</g>
-</g>
 </svg>

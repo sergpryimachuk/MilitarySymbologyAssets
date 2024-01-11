@@ -29,29 +29,4 @@
 		<text transform="matrix(1 0 0 1 274.9844 213.334)" font-family="sans-serif" font-size="21.0914">3</text>
 	</g>
 </g>
-<g id="template" display="none">
-	<g display="inline">
-		<text transform="matrix(1 0 0 1 293.9473 121.4727)" font-family="sans-serif" font-size="21.0914">PT 3</text>
-		<path stroke="#000000" stroke-width="0.267" stroke-linejoin="bevel" stroke-miterlimit="10" d="M281.828,123.513l-15.486,10.279
-			l-1.535-2.319l15.469-10.279L281.828,123.513L281.828,123.513z M271.131,136.961l-22.227,6.742l14.836-17.872L271.131,136.961
-			L271.131,136.961z"/>
-	</g>
-	<g display="inline">
-		<path stroke="#000000" stroke-width="0.267" stroke-linejoin="bevel" stroke-miterlimit="10" d="M196.895,80.746l0.148,46.721
-			h-2.769l-0.167-46.721H196.895L196.895,80.746z M202.334,125.215l-6.607,22.275l-6.742-22.226L202.334,125.215L202.334,125.215z"
-			/>
-		<text transform="matrix(1 0 0 1 176.4653 78.7666)" font-family="sans-serif" font-size="21.0914">PT 2</text>
-	</g>
-	<g display="inline">
-		<path stroke="#000000" stroke-width="0.267" stroke-linejoin="bevel" stroke-miterlimit="10" d="M100.381,110.698l60.587,60.588
-			L159,173.254L98.412,112.65L100.381,110.698L100.381,110.698z M163.138,165.979l11.012,20.44l-20.457-10.996L163.138,165.979
-			L163.138,165.979z"/>
-		<text transform="matrix(1 0 0 1 73.4106 100.1465)" font-family="sans-serif" font-size="21.0914">PT 1</text>
-	</g>
-	<text transform="matrix(1 0 0 1 207.4229 356.0547)" display="inline" font-family="sans-serif" font-size="15.4848">POINT</text>
-	<text transform="matrix(1 0 0 1 207.4229 337.4727)" display="inline" font-family="sans-serif" font-size="15.4848">CENTER</text>
-	<path display="inline" stroke="#000000" stroke-width="0.267" stroke-linejoin="bevel" stroke-miterlimit="10" d="M237.043,315.089
-		l-35.377-88.205l2.586-1.034l35.375,88.202L237.043,315.089L237.043,315.089z M197.595,230.923l-2.086-23.146l14.468,18.172
-		L197.595,230.923L197.595,230.923z"/>
-</g>
 </svg>

@@ -15,16 +15,4 @@
 	
 		<line fill="none" stroke="#000000" stroke-width="5.3627" stroke-linejoin="round" stroke-miterlimit="10" x1="404.994" y1="302.369" x2="372.856" y2="334.505"/>
 </g>
-<g id="template" display="none">
-	<text transform="matrix(1 0 0 1 440.5186 388.5366)" display="inline" font-family="sans-serif" font-size="24">C</text>
-	<text transform="matrix(1 0 0 1 457.8027 388.5366)" display="inline" font-family="sans-serif" font-size="24">E</text>
-	<text transform="matrix(1 0 0 1 473.8105 388.5366)" display="inline" font-family="sans-serif" font-size="24">N</text>
-	<text transform="matrix(1 0 0 1 491.0947 388.5366)" display="inline" font-family="sans-serif" font-size="24">T</text>
-	<text transform="matrix(1 0 0 1 505.8027 388.5366)" display="inline" font-family="sans-serif" font-size="24">E</text>
-	<text transform="matrix(1 0 0 1 521.8105 388.5366)" display="inline" font-family="sans-serif" font-size="24">R</text>
-	<text transform="matrix(1 0 0 1 440.5186 417.3359)" display="inline" font-family="sans-serif" font-size="24">POINT </text>
-	<path display="inline" stroke="#000000" stroke-width="0.3214" stroke-linejoin="bevel" stroke-miterlimit="10" d="
-		M448.557,398.171H328.045v-5.342h120.512V398.171L448.557,398.171z M330.738,403.533l-26.795-8.033l26.795-8.034V403.533
-		L330.738,403.533z"/>
-</g>
 </svg>

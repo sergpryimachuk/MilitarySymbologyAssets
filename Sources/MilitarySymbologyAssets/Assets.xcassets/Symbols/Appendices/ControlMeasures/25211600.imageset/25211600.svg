@@ -11,14 +11,4 @@
 	<ellipse cx="305.687" cy="396.937" rx="12.5" ry="5.75"/>
 	<ellipse cx="305.687" cy="520.437" rx="12.5" ry="5.75"/>
 </g>
-<g id="template" display="none">
-	<g display="inline">
-		<g>
-			<line fill="none" stroke="#000000" stroke-width="5" x1="420.012" y1="514.687" x2="328.188" y2="419.772"/>
-			<polygon points="341.086,417.632 304.992,395.986 325.428,432.779 			"/>
-		</g>
-	</g>
-	<text transform="matrix(1 0 0 1 411.6875 535.4365)" display="inline" font-family="sans-serif" font-size="24">CENTER</text>
-	<text transform="matrix(1 0 0 1 411.6875 564.2363)" display="inline" font-family="sans-serif" font-size="24">POINT</text>
-</g>
 </svg>

@@ -10,20 +10,4 @@
 	<line fill="none" stroke="#000000" stroke-width="5" x1="306.91" y1="312.5" x2="306.91" y2="252.5"/>
 	<line fill="none" stroke="#000000" stroke-width="5" x1="380.796" y1="341.501" x2="436.5" y2="293.5"/>
 </g>
-<g id="template" display="none">
-	<text transform="matrix(1 0 0 1 246.1152 560.7666)" display="inline" font-family="sans-serif" font-size="28.2962">C</text>
-	<text transform="matrix(1 0 0 1 266.5503 560.7666)" display="inline" font-family="sans-serif" font-size="28.2962">E</text>
-	<text transform="matrix(1 0 0 1 285.3101 560.7666)" display="inline" font-family="sans-serif" font-size="28.2962">N</text>
-	<text transform="matrix(1 0 0 1 305.7451 560.7666)" display="inline" font-family="sans-serif" font-size="28.2962">T</text>
-	<text transform="matrix(1 0 0 1 323.4531 560.7666)" display="inline" font-family="sans-serif" font-size="28.2962">E</text>
-	<text transform="matrix(1 0 0 1 342.2148 560.7666)" display="inline" font-family="sans-serif" font-size="28.2962">R</text>
-	<text transform="matrix(1 0 0 1 246.1152 594.7217)" display="inline" font-family="sans-serif" font-size="28.2962">POINT </text>
-	<line display="inline" fill="none" stroke="#000000" stroke-width="5" x1="306.91" y1="477.5" x2="306.91" y2="533.5"/>
-	<g display="inline">
-		<g>
-			<line fill="none" stroke="#FFFFFF" stroke-width="5" x1="307.063" y1="477.5" x2="307.063" y2="411"/>
-			<polygon fill="#FFFFFF" points="319.566,414.646 307.102,393.058 294.637,414.646 			"/>
-		</g>
-	</g>
-</g>
 </svg>

@@ -26,28 +26,4 @@
 		<circle stroke="#000000" stroke-width="2" cx="76.923" cy="277.88" r="12.5"/>
 	</g>
 </g>
-<g id="points" display="none">
-	<line display="inline" fill="none" stroke="#000000" stroke-width="2" x1="17.6" y1="198.599" x2="17.6" y2="179.4"/>
-	<line display="inline" fill="none" stroke="#000000" stroke-width="2" x1="17.267" y1="180.066" x2="38.4" y2="169"/>
-	<line display="inline" fill="none" stroke="#000000" stroke-width="2" x1="382.4" y1="197" x2="382.4" y2="178.599"/>
-	<line display="inline" fill="none" stroke="#000000" stroke-width="2" x1="382.666" y1="179.267" x2="361.6" y2="170.599"/>
-	<polygon display="inline" stroke="#000000" stroke-width="2" points="17.6,201.478 23.2,187.879 12,187.879 	"/>
-	<polygon display="inline" stroke="#000000" stroke-width="2" points="382.4,200.678 388,187.079 376.8,187.079 	"/>
-	<text transform="matrix(1 0 0 1 331.2002 172.9999)" display="inline" font-family="sans-serif" font-size="12">PT 2</text>
-	<text transform="matrix(1 0 0 1 40.8003 172.2001)" display="inline" font-family="sans-serif" font-size="12">PT 1</text>
-</g>
-<g id="example" display="none">
-	
-		<polyline id="_x3C_path_x3E_" display="inline" fill="#FF8080" stroke="#808080" stroke-width="5" stroke-linecap="square" points="
-		196.37,366.405 247.37,315.405 196.37,264.405 145.37,315.405 196.37,366.405 	"/>
-	<g id="symbol" display="inline">
-		<path fill="none" stroke="#808080" stroke-width="5" d="M180.024,328.966c-6.75,0-12.222-5.89-12.222-13.155
-			s5.472-13.155,12.222-13.155"/>
-		<path fill="none" stroke="#808080" stroke-width="5" d="M212.716,302.655c6.75,0,12.222,5.89,12.222,13.155
-			c0,7.265-5.472,13.155-12.222,13.155"/>
-		<line fill="none" stroke="#808080" stroke-width="5" x1="180.024" y1="302.655" x2="212.716" y2="302.655"/>
-		<line fill="none" stroke="#808080" stroke-width="5" x1="180.024" y1="328.966" x2="212.716" y2="328.966"/>
-	</g>
-	<text transform="matrix(1 0 0 1 192.5 258.4999)" display="inline" font-family="sans-serif" font-size="18">II</text>
-</g>
 </svg>

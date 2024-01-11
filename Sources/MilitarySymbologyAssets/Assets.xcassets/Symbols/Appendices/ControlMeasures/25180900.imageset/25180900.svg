@@ -18,19 +18,4 @@
 		</g>
 	</g>
 </g>
-<g id="template" display="none">
-	<g transform="translate(0 -140)" display="inline">
-		<text transform="matrix(1 0 0 1 262.3115 372.793)" font-family="sans-serif" font-size="24">CENTER</text>
-		<text transform="matrix(1 0 0 1 273.3115 397.793)" font-family="sans-serif" font-size="24">POINT</text>
-	</g>
-	<g display="inline">
-		<g>
-			<g>
-				<line fill="none" stroke="#000000" stroke-width="4" x1="305.631" y1="262.5" x2="305.647" y2="298.892"/>
-				<path d="M308.723,305.977c1.498-4.96,2.879-8.184,4.476-12.163h-15.134c0.677,1.424,2.979,7.203,4.476,12.163
-					c1.604,5.309,2.701,10.122,3.092,13.244C306.022,316.099,307.119,311.286,308.723,305.977z"/>
-			</g>
-		</g>
-	</g>
-</g>
 </svg>

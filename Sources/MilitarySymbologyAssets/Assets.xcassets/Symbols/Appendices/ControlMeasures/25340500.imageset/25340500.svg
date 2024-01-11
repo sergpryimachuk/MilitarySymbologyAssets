@@ -20,21 +20,4 @@
 		<text transform="matrix(0.8 0 0 0.8 250.4898 200.4)" font-family="sans-serif" font-size="35">C</text>
 	</g>
 </g>
-<g id="template" display="none">
-	<g display="inline">
-		<text transform="matrix(1 0 0 1 38.999 130.499)" font-family="sans-serif" font-size="15">PT. 3</text>
-		<line fill="none" stroke="#000000" stroke-width="2" x1="36.5" y1="175.5" x2="59" y2="138"/>
-		<polygon stroke="#000000" stroke-width="2" points="30.067,184.053 31.88,161.765 48.985,172.131 		"/>
-	</g>
-	<g display="inline">
-		<text transform="matrix(1 0 0 1 280.249 29.249)" font-family="sans-serif" font-size="15">PT. 1</text>
-		<line fill="none" stroke="#000000" stroke-width="2" x1="329" y1="30.5" x2="361.5" y2="59.25"/>
-		<polygon stroke="#000000" stroke-width="2" points="366.71,61.869 344.923,56.841 357.659,41.421 		"/>
-	</g>
-	<g display="inline">
-		<text transform="matrix(1 0 0 1 285.249 376.749)" font-family="sans-serif" font-size="15">PT. 2</text>
-		<line fill="none" stroke="#000000" stroke-width="2" x1="361.5" y1="339.25" x2="334" y2="368"/>
-		<polygon stroke="#000000" stroke-width="2" points="365.224,332.902 358.69,354.287 344.195,340.506 		"/>
-	</g>
-</g>
 </svg>
