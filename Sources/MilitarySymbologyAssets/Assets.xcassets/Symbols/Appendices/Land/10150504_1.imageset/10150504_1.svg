@@ -103,5 +103,4 @@
 	<text transform="matrix(1 0 0 1 225.9238 431.6719)" font-family="sans-serif" font-size="96">E</text>
 	<text transform="matrix(1 0 0 1 307.0898 432.084)" font-family="sans-serif" font-size="96">W</text>
 </g>
-<rect id="greyBox" x="125.985" y="277" display="none" fill="none" stroke="#CCCCCC" stroke-width="10" width="359.861" height="242.5"/>
 </svg>

@@ -12,5 +12,4 @@
 	<text transform="matrix(1 0 0 1 244.3418 347.0001)" font-family="sans-serif" font-size="52">COM</text>
 	<line fill="none" stroke="#000000" stroke-width="5" x1="126.5" y1="444" x2="485.5" y2="444"/>
 </g>
-<rect id="greyBox" x="126.5" y="275" display="none" fill="none" stroke="#C8C8C8" stroke-width="10" width="359" height="240"/>
 </svg>

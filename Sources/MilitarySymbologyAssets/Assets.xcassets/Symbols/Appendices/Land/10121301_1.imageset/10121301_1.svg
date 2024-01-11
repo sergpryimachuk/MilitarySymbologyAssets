@@ -8,5 +8,4 @@
 	<line fill="none" stroke="#000000" stroke-width="5" x1="126.5" y1="516" x2="485.5" y2="276"/>
 	<polygon id="main" stroke="#000000" stroke-width="5" points="245.685,441.015 305.082,353.75 364.479,441.015 	"/>
 </g>
-<rect id="greyBox" x="126.5" y="276" display="none" fill="none" stroke="#C8C8C8" stroke-width="10" width="359" height="240"/>
 </svg>

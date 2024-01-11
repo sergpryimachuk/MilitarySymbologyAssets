@@ -7,4 +7,6 @@
 	<polygon fill="none" stroke="#000000" stroke-width="21" points="30.458,70.5 375.458,70.5 375.458,274.5 202.958,353.5 
 		30.458,279.5 	"/>
 	
-		</svg>
+	<text transform="matrix(1 0 0 1 173.958 308.5)" font-family="sans-serif" font-size="120">L</text>
+</g>
+</svg>
